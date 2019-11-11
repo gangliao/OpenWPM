@@ -33,7 +33,7 @@ more-itertools==7.2.0     # via pytest, zipp
 multiprocess==0.70.9
 numpy==1.17.2
 packaging==19.2           # via pytest
-pandas==0.25.1
+pandas==0.24.2            # FIXME: ubuntu 16.04: No matching distribution found for pandas==0.25.1
 parso==0.5.1              # via jedi
 pexpect==4.7.0            # via ipython
 pickleshare==0.7.5        # via ipython
